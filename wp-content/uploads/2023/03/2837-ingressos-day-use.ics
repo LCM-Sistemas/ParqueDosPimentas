@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WooThemes//WooCommerce Bookings 1.15.62//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Parque dos Pimentas
+X-ORIGINAL-URL:https://parquedospimentas.com.br/
+X-WR-CALDESC:Reservas de Parque dos Pimentas
+X-WR-TIMEZONE:America/Sao_Paulo
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20230210
+UID:wc_bookings_2837
+DTSTAMP:20230324T172204
+LOCATION:
+DESCRIPTION:Adulto: 1\n\nDescrição da reserva:\nSIGA AS INSTRUÇÕES PARA COMPRAR SEUS INGRESSOS \n1- Selecione a quantidade de ingressos desejada.  \n \n• Adulto (a partir de 13 anos): de 69\,90 por 49\,90 \n \n• Especial (de 7 a 12 anos): de 34\,90 por 24\,99 \n \n• Infantil (de 3 a 5 anos): de 24\,99 por 14\,90 \n \n2- Selecione a data desejada no calendário. \n \n3- Clique em Reservar Ingressos. \n \n4- Caso tenha um cupom de desconto\, adicione no campo “cupom” e aplique. \n \n5- Confira seu pedido e clique em “finalizar compra”. \n \n6- Prossiga com seus dados\, e escolha a forma de pagamento (PIX ou Cartão de Crédito). \n \n7- Assim que concluído o pagamento\, o voucher dos ingressos chegará no e-mail cadastrado!
+URL;VALUE=URI:https://parquedospimentas.com.br/minha-conta/view-order/2838/
+SUMMARY:#2837 - Ingressos Day Use
+DTSTART;VALUE=DATE:20230210
+END:VEVENT
+END:VCALENDAR

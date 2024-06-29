@@ -1,0 +1,148 @@
+# Translation of Themes - Royal Elementor Kit in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Royal Elementor Kit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-18 08:18:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Royal Elementor Kit\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Truly all in one Solution For Elementor Lovers. 30+ Elementor Templates KIT, 50+ Professional Elementor Widgets, Elementor theme builder, Elementor Popup Builder, Elementor Premade blocks and many other cool features like Sticky Header, Particle effects, parallax backgrounds and many other elementor addons. Simple Install the theme, click on - Get Started with Templates Kit button and that's it. Very easy to use even for WordPress beginners or professionals. All In one Elementor Solution which outranks all other Elementor themes and Elementor addons. ########### TEMPLATES INCLUDED: Elementor Blog Template, Elementor Magazine Blog Template, Elementor Food Blog Template, Elementor Travel Blog Template, Elementor Portfolio Template, Elementor NFT Template, Elementor Pizza Restaurant Template, Elementor Travel Blogger & Influencer Template, Elementor Cybersecurity Template, Elementor Photographer Portfolio Template, Elementor Crypto Currency Template, Elementor Skin Care Template, Elementor Lawyer Template, Elementor Medical Template, Elementor Digital Agency Template, Elementor Drone Template, Elementro Architecture Template, Elementor Food Delivery Template, Elementor Construction Template, Elementor IT Technology Template, Elementor Real Estate Template, Elementor Restaurant Template, Elementor Wine Bar & Restaurant Template, Elementor Wedding Template & other beautiful elementor business templates. All these templates are created with elementor page builder. Theme Demo Page: https://royal-elementor-addons.com/royal-elementor-kit/"
+msgstr "Verdadeiramente tudo em uma solução para os amantes elementor. 30+ Modelos de Elementor KIT, 50+ Professional Elementor Widgets, construtor de temas de Elementor, Construtor de pop-ups de Elementor, Blocos pré-fabricados de Elementor e muitas outras recursos legais como Cabeçalho Fixo, efeitos de partículas, plano de fundo paralaxe e muitos outros complementos de elementor. Simples Instale o tema, clique em - Inicia com o botão Kit Modelos e é isso. Muito fácil de usar até mesmo para iniciantes ou profissionais do WordPress. Solução Tudo em um de Elementor que supera todos os outros temas elementor e complementos Elementor. ########### Modelo de Blog de Elementor, Modelo de blog da revista Elementor, Modelo de Blog de Comida Elementor, Modelo de Blog de Viagens Elementor, Modelo de Portfólio Elementor, Modelo NFT Elementor, Modelo de Restaurante de Pizza Elementor, Modelo de Blogger e Influenciador de Viagens Elementor, Modelo de Cibersegurança Elementor, Modelo de Portfólio de Fotógrafo Elementor, Modelo de moeda criptográfica Elementor, modelo de cuidados com a pele Elementor, modelo de advogado Elementor, modelo médico Elementor, Modelo da Agência Digital Elementor, Modelo de Drone Elementor, Modelo de Arquitetura Elementro, Modelo de Entrega de Alimentos Elementor, Modelo de Construção Elementor, Modelo de Tecnologia de TI Elementor, Modelo de Imóveis Elementor, Modelo de Restaurante Elementor, Modelo de Bar e Restaurante de Vinhos Elementor, Modelo de Casamento Elementor & outros belos modelos de negócios elementor. Todos esses modelos são criados com o construtor de páginas elementor. Página de demonstração do tema: https://royal-elementor-addons.com/royal-elementor-kit/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Royal Elementor Kit"
+msgstr "Royal Elementor Kit"
+
+#: inc/activation/class-welcome-notice.php:332
+msgid "Welcome to Royal Elementor Kit"
+msgstr "Bem-vindo ao Royal Elementor Kit"
+
+#: inc/activation/class-welcome-notice.php:236
+#: inc/activation/class-welcome-notice.php:271
+msgid "Failed to initialize or activate importer plugin."
+msgstr "Falha ao inicializar ou ativar o plugin importador."
+
+#: inc/activation/class-welcome-notice.php:410
+msgid "Something went wrong, contact support."
+msgstr "Algo deu errado, entre em contato com o suporte."
+
+#: inc/activation/class-welcome-notice.php:342
+msgid "Get Started with Templates Kit %s"
+msgstr "Inicia com o Kit de Modelos %s"
+
+#: inc/activation/class-welcome-notice.php:334
+msgid "Royal Elementor Kit comes with %s with various designs to pick from."
+msgstr "Royal Elementor Kit vem com %s com vários designs para escolher."
+
+#: inc/activation/class-welcome-notice.php:204
+#: inc/activation/class-welcome-notice.php:248
+msgid "Insufficient permissions to install the plugin."
+msgstr "Permissões insuficientes para instalar o plugin."
+
+#: single.php:65
+msgid "By"
+msgstr "Por"
+
+#: page.php:32 single.php:43
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: index.php:62
+msgid "Nothing Found!"
+msgstr "Nada encontrado!"
+
+#: index.php:46
+msgid "read more"
+msgstr "leia mais"
+
+#: index.php:41 single.php:28
+msgid "Comments"
+msgstr "Comentários"
+
+#: index.php:41 single.php:28
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Ir para o conteúdo"
+
+#: functions.php:35
+msgid "Main Menu"
+msgstr "Menu Principal"
+
+#. translators: %1$s: theme name, %2$s link, %3$s theme author
+#: footer.php:10
+msgid "%1$s Theme by <a href=\"%2$s\">%3$s.</a>"
+msgstr "%1$s Tema por <a href=\"%2$s\">%3$s.</a>"
+
+#: comments.php:43
+msgid "Comment"
+msgstr "Comentário"
+
+#: comments.php:30
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:26
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:12
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: comments.php:12 index.php:41 single.php:28
+msgid "0 Comments"
+msgstr "0 Comentários"
+
+#: 404.php:8
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não podemos encontrar o que você está procurando. Talvez a pesquisa possa ajudar."
+
+#: 404.php:5
+msgid "Page not found!"
+msgstr "Página não encontrada!"
+
+#: index.php:63
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Nada foi encontrado com os termos da sua pesquisa. Tente novamente com algumas palavras-chaves diferentes."
+
+#: header.php:39
+msgid "Home"
+msgstr "Página inicial"
+
+#: comments.php:44
+msgid "Post Comment"
+msgstr "Comentário do post"
+
+#: comments.php:42
+msgid "Leave a Reply"
+msgstr "Deixe uma resposta"
+
+#: comments.php:12
+msgid "One Comment"
+msgstr "Um comentário"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://royal-elementor-addons.com/"
+msgstr "https://royal-elementor-addons.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "WP Royal"
+msgstr "WP Royal"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://royal-elementor-addons.com/royal-elementor-kit"
+msgstr "https://royal-elementor-addons.com/royal-elementor-kit"
